@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Solutions Architect, Technical Lead, and Senior Software Engineer** with over **7 years of professional software engineering experience**, specializing in designing, developing, and delivering enterprise-grade systems.
+I'm a **Solutions Architect, Technical Lead, and Senior Software Engineer** with over **8 years of professional software engineering experience**, specializing in designing, developing, and delivering enterprise-grade systems.
 
 My expertise spans **Java, Spring Boot, Microservices, Distributed Systems, Event-Driven Architecture, API Design, and Cloud-Native Engineering**.
 
