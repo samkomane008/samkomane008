@@ -41,21 +41,7 @@ I founded [Samloryx Consultancy](https://samloryxconsultancy.co.za) in 2022.
 
 Through Samloryx, I work on custom software, integrations, automation and digital solutions for businesses.
 
-### A few things I care about
-
-- Keeping architecture practical. Not every problem needs microservices.
-- Writing code that other developers can understand and maintain.
-- Building systems that are observable and easier to troubleshoot.
-- Making security part of the design rather than an afterthought.
-- Understanding the business problem before choosing the technology.
-- Sharing knowledge and helping other developers grow.
-
-### GitHub activity
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkomane008&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkomane008&layout=compact&hide_border=true)
-
+  
 ---
 
 [Website](https://samloryxconsultancy.co.za) · [GitHub](https://github.com/samkomane008)
