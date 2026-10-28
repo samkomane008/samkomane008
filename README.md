@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,35:6366F1,70:A855F7,100:EC4899&amp;height=180&amp;section=header&amp;text=Samuel%20Komane&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Samuel Komane — cyan, indigo, purple and pink wave banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,35:1E3A5F,70:2563EB,100:0D9488&amp;height=180&amp;section=header&amp;text=Samuel%20Komane&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Samuel Komane — navy, steel blue and teal wave banner" />
 
 **Solutions Architect · Technical Lead · Software Engineer**
 
