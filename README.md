@@ -1,47 +1,38 @@
+<div align="center">
 
-# Samuel Komane
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,35:6366F1,70:A855F7,100:EC4899&amp;height=180&amp;section=header&amp;text=Samuel%20Komane&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Samuel Komane — cyan, indigo, purple and pink wave banner" />
 
-**Solutions Architect | Technical Lead | Software Engineer**
+**Solutions Architect · Technical Lead · Software Engineer**
 
-I'm a software engineer with 8 years of experience building and maintaining enterprise applications, primarily in Java and Spring Boot.
+8 years building enterprise software. Still hands-on. Always building.
 
-Over the years, I've worked on backend systems, integrations, microservices and distributed applications across financial services and enterprise environments. My work has gradually shifted from writing features to designing systems, making technical decisions, and helping engineering teams deliver software that is reliable and maintainable.
+<p>
+<img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<br />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure" />
+<img src="https://img.shields.io/badge/Kubernetes-6366F1?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Kafka-A855F7?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+</p>
 
-I still enjoy writing code. I think staying hands-on makes me a better architect.
+Microservices · Distributed systems · Integrations · Automation
 
-### What I work with
+</div>
 
-- **Backend:** Java, Spring Boot, Spring Security, REST APIs, Hibernate
-- **Architecture:** Microservices, distributed systems, event-driven architecture, system integration
-- **Messaging:** Apache Kafka, RabbitMQ
-- **Frontend:** React, TypeScript, JavaScript
-- **Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD, GitHub Actions
-- **Databases:** PostgreSQL, MySQL, SQL
-- **Other:** Linux, Git, monitoring, observability and API security
+### A few things I’m building
 
-### What I'm working on
+- 🟣 **[SamloryxOS](https://samloryx.co.za)** — Business operations, simpler workflows, and AI-powered automation.
+- 🔵 **Nabor** — A marketplace connecting people with local service providers.
+- 🟠 **[Samloryx Consultancy](https://samloryxconsultancy.co.za)** — Founded in 2022. Custom software, integrations, and digital solutions.
 
-**[SamloryxOS](https://samloryx.co.za)**
+<div align="center">
 
-A business management platform I'm building to help companies manage their day-to-day operations in one place.
+**Good architecture. Practical software. Real impact.**
 
-The focus is on simplifying workflows, managing contracts and documents, keeping track of business obligations, and using AI to reduce repetitive administrative work.
+[![Website](https://img.shields.io/badge/Explore_Samloryx-8B5CF6?style=for-the-badge)](https://samloryxconsultancy.co.za)
 
-**Nabor**
+</div>
 
-An on-demand services marketplace for web, Android and iOS.
-
-The idea is to make finding and booking reliable local service providers easier, whether someone needs a plumber, electrician, mechanic, barber or another professional.
-
-We're working on provider verification, location-based discovery, bookings, live tracking, quotations, payments and reviews.
-
-**Samloryx Consultancy**
-
-I founded [Samloryx Consultancy](https://samloryxconsultancy.co.za) in 2022.
-
-Through Samloryx, I work on custom software, integrations, automation and digital solutions for businesses.
-
-  
----
-
-[Website](https://samloryxconsultancy.co.za) · [GitHub](https://github.com/samkomane008)
